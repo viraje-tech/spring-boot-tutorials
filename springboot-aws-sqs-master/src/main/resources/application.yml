@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: us-west-2
+      auto: false
+    credentials:
+      access-key: AKIAQYRCRR7REX3RIN6D
+      secret-key: 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
+    end-point:
+      uri: https://sqs.us-west-2.amazonaws.com/052685803490/demoSQS
